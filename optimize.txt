@@ -1,0 +1,24 @@
+print "પ્રોગ્રામમાં તમારું સ્વાગત છે!"
+t1 = 18
+x = t1
+t2 = 4
+y = t2
+t3 = 10
+t4 = 3
+t5 = x + 3
+y = t5
+t6 = 7
+t7 = 2
+t8 = 9
+y = t8
+if x > 10 goto L1
+goto L2
+L1:
+y = t5
+goto L3
+L2:
+y = t8
+L3:
+print "x = ", x
+print "y = ", y
+print "આભાર! પ્રોગ્રામ પૂર્ણ થયો."
