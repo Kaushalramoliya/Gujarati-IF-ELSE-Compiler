@@ -1,0 +1,49 @@
+Copyright (c) 2025 Kaushal Ramoliya  
+All rights reserved.  
+
+This project is the intellectual property of **Kaushal Ramoliya** and is protected under national and international copyright laws.
+
+---
+
+🔒 PERMITTED ACTIONS:
+
+✔️ You are allowed to:
+- View the contents of this repository **only via GitHub's web interface**
+- Read the documentation and project structure for informational or educational reference **without reuse**
+
+---
+
+🚫 STRICTLY PROHIBITED:
+
+You are **not permitted** to:
+- Clone, fork, or download this repository
+- Copy, reproduce, or modify any part of the source code
+- Use this code in personal, educational, or commercial projects
+- Redistribute or share this project in any form
+- Use this repository's ideas, algorithms, design, or structure
+- Upload or publish any part of this project elsewhere
+
+Any of the above actions will be considered a **violation of copyright law** and may result in **legal consequences**.
+
+---
+
+> ⚠️ **STRICT COPYRIGHT WARNING**
+>
+> This project is **© 2025 Kaushal Ramoliya** — All rights reserved.  
+> You are **only allowed to view** this repository on GitHub.
+>
+> ❌ Do NOT download, copy, fork, or reuse any part of this project.  
+> ❌ Unauthorized use will result in legal consequences.
+>
+> 🔒 This project is protected under national and international copyright laws.
+
+
+⚠️ NOTICE:
+
+This project is a protected work.  
+All rights are exclusively reserved by **Kaushal Ramoliya**.
+
+By accessing this repository, you agree to be bound by these terms.
+
+For inquiries, permissions, or collaborations, contact the author directly at:  
+📧 kaushalramoliya17@gmail.com
